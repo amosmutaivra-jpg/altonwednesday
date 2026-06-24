@@ -14,6 +14,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://thegrandaltonresort.com'),
   title: 'THE GRAND ALTON RESORT | Luxury Hotel in Kisumu, Kenya',
   description: 'Experience luxury, comfort, and personalized hospitality at The Grand Alton Resort, a premier hotel destination in Kisumu, Kenya. Elegant rooms, fine dining, conference facilities, and beautiful event spaces.',
   keywords: 'Grand Alton Resort, Kisumu hotel, luxury hotel Kenya, conference facilities Kisumu, wedding venue Kenya, lake victoria hotel',
